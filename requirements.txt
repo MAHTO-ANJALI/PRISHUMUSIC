@@ -10,7 +10,7 @@ heroku3
 lyricsgenius
 motor
 numpy
-pillow==9.0.5
+pillow
 psutil
 py-tgcalls==0.9.7
 pykeyboard
