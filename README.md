@@ -30,3 +30,9 @@
 
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/PRISHUMUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+
+
+
+## Deploy To Render 
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ITZ-ZAID/ZAID-USERBOT)
